@@ -1,4 +1,10 @@
 .idea
+<<<<<<< HEAD
 coverage
 node_modules
 libs
+=======
+node_modules
+coverage
+bower_components
+>>>>>>> refs/remotes/nodules/master

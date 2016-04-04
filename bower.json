@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name" : "susanin-demo",
     "private" : true,
     "dependencies" : {
@@ -12,4 +13,20 @@
         "susanin_1.0.0" : "susanin#1.0.0",
         "susanin_1.0.1" : "susanin#1.0.1"
     }
+=======
+    "name" : "susanin",
+    "main" : "./dist/susanin.js",
+    "version" : "1.0.1",
+    "ignore" : [
+        "**/.*",
+        "Makefile",
+	"dist/susanin.tmp.js",
+        "*.json",
+	"*.conf.js",
+        "test",
+        "lib",
+        "pre-commit",
+        "README.md"
+    ]
+>>>>>>> refs/remotes/nodules/master
 }
